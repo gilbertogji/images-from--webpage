@@ -5,6 +5,8 @@ import re
 x1x=0
 x2x=0
 
+print("gracias por usar este codigo, pueden hcer reclamaciones al github gilbertgji\nprimero se muestran todas las imagenes de la pagina y despues se muestran todas las que si nos interesan")
+
 # Ignore SSL certificate errors
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
